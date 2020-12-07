@@ -367,3 +367,10 @@ a:hover, a:focus, a:active {
   height: 3rem;
   margin-bottom: 1rem;
 }
+
+.fa{
+  font-size:20px; 
+  margin-left:5px!important;
+}
+
+

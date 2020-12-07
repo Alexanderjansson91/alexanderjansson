@@ -294,6 +294,8 @@ html {
 }
 
 @media (min-width: 576px) {
+
+  
   .col-sm {
     -ms-flex-preferred-size: 0;
     flex-basis: 0;
@@ -466,6 +468,9 @@ html {
 }
 
 @media (min-width: 768px) {
+
+
+
   .col-md {
     -ms-flex-preferred-size: 0;
     flex-basis: 0;
@@ -638,6 +643,8 @@ html {
 }
 
 @media (min-width: 992px) {
+
+  
   .col-lg {
     -ms-flex-preferred-size: 0;
     flex-basis: 0;
